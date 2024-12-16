@@ -11,6 +11,17 @@
   --light: #F6F5FC;
 }
 
+/* Centrer le menu sur les écrans mobiles */
+@media (max-width: 991.98px) { /* Bootstrap lg breakpoint */
+  .navbar-nav {
+    justify-content: center; /* Centre horizontalement */
+  }
+
+  .navbar-collapse {
+    text-align: center; /* Centre le texte du menu */
+  }
+}
+
 body {
   font-family: "Work Sans", sans-serif;
   line-height: 1.5;
