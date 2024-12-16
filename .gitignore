@@ -20,3 +20,19 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# Cache et logs
+*.log
+*.cache
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# Système
+.DS_Store
+Thumbs.db
