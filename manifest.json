@@ -1,8 +1,9 @@
 {
-  "name": "ToolSmartly",
-  "short_name": "Smartly",
-  "description": "Tous vos outils en ligne, simples et efficaces.",
+  "name": "ToolSmartly - Tous vos outils en ligne",
+  "short_name": "ToolSmartly",
+  "description": "Accédez à vos outils en ligne rapidement et facilement : convertisseurs, générateurs, calculateurs, et bien plus.",
   "start_url": "/index.html",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
@@ -17,5 +18,7 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "lang": "fr",
+  "orientation": "portrait-primary"
 }
