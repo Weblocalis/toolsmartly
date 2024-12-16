@@ -1,12 +1,15 @@
 {
+  "id": "/",
   "name": "ToolSmartly - Tous vos outils en ligne",
   "short_name": "ToolSmartly",
-  "description": "Accédez à vos outils en ligne rapidement et facilement : convertisseurs, générateurs, calculateurs, et bien plus.",
+  "description": "Des outils simples, rapides et efficaces : convertisseurs, générateurs, calculateurs.",
   "start_url": "/index.html",
   "scope": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
+  "orientation": "portrait-primary",
+  "categories": ["tools", "utilities", "productivity"],
   "icons": [
     {
       "src": "/assets/icons/icon-192x192.png",
@@ -19,6 +22,25 @@
       "type": "image/png"
     }
   ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshots/screenshot1.png",
+      "type": "image/png",
+      "sizes": "640x480"
+    },
+    {
+      "src": "/assets/screenshots/screenshot2.png",
+      "type": "image/png",
+      "sizes": "1280x720"
+    }
+  ],
   "lang": "fr",
-  "orientation": "portrait-primary"
+  "dir": "ltr",
+  "related_applications": [
+    {
+      "platform": "play",
+      "url": "https://play.google.com/store/apps/details?id=com.toolsmartly.app"
+    }
+  ],
+  "prefer_related_applications": false
 }
