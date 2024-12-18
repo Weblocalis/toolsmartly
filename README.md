@@ -79,29 +79,4 @@ npx http-server
 ### Design
 - **Canva** : Pour créer les éléments graphiques.
 
-### SEO & Accessibilité
-- **Sitemap.xml** : Optimisation de l'indexation.
-- **robots.txt** : Contrôle des moteurs de recherche.
-- **Balises Schema.org** : Pour enrichir les résultats de recherche.
-
-## Conventions et Bonnes Pratiques
-
-1. **Nom des fichiers**
-   - Utilisez des noms explicites et cohérents pour les fichiers et dossiers.
-
-2. **Organisation des ressources**
-   - Catégorisez les images et scripts en fonction de leur contexte d'utilisation.
-
-3. **Performances**
-   - Minifiez les fichiers CSS et JS avant la mise en production.
-   - Optimisez les images (formats modernes comme WebP).
-
-4. **Accessibilité**
-   - Respectez les normes WCAG pour garantir une expérience utilisateur inclusive.
-
-5. **Testing**
-   - Analysez les performances et l'accessibilité avec des outils comme Lighthouse.
-
-## Confidentialité
-
 Ce projet est strictement privé et ne doit pas être partagé en dehors des collaborateurs autorisés. Toute tentative de duplication ou de diffusion sans autorisation est interdite.
